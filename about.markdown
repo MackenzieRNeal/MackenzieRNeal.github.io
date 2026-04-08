@@ -32,6 +32,8 @@ permalink: /Research/
 
 
  <ul class="no-bullets">
+               <li><a href="https://link.springer.com/article/10.1007/s00357-026-09539-4">Parsimonious hidden Markov
+                  models for multivariate longitudinal data</a></li>
               <li><a href="https://link.springer.com/article/10.1057/s41270-025-00443-1">Organizational alignment:
                   assessing the effect of CRM training on firm performance over time</a></li>
               <li><a href="https://link.springer.com/article/10.1007/s11222-024-10462-0">Hidden Markov models for
@@ -49,7 +51,6 @@ permalink: /Research/
 
   <ul class="no-bullets">
         <li>Clustering flow cytometry data</li>
-        <li>Parsimonious hidden Markov models</li>
     </ul>
 <div class="spaced"></div>
 <h2> Talks: </h2>
