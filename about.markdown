@@ -56,13 +56,13 @@ permalink: /Research/
 <h2> Talks: </h2>
 
   <ul class="no-bullets">
+      <li><b>Hidden Markov models for incomplete multivariate longitudinal data</b></li>
+              <ul class="no-bullets indented-list">
+                <li>Invited Talk - The International Federation Of Classification Societies, Milan, Italy, July 14-16, 2026. </li>
+              </ul>
       <li><b>A mixture approach to discriminative clustering with applications to flow cytometry and other data</b></li>
               <ul class="no-bullets indented-list">
                 <li>Invited Talk - The Classification Society Annual Meeting, Halifax, Canada, June 16-18, 2026. </li>
-              </ul>
-    <li><b>Hidden Markov models for incomplete multivariate longitudinal data</b></li>
-              <ul class="no-bullets indented-list">
-                <li>Invited Talk - The International Federation Of Classification Societies, Milan, Italy, July 14-16, 2026. </li>
               </ul>
   <li><b>Robust clustering using maximized mutual information</b></li>
               <ul class="no-bullets indented-list">
